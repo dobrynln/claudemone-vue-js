@@ -1,0 +1,42 @@
+.block-form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.register-page, .login-page {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.input-invalid {
+    .v-input__control {
+        .v-input__slot {
+            &::before {
+                border-color: #D83636 !important;
+            }
+        }
+    }
+}
+.span-invalid {
+    color: #D83636 !important;
+    font-size: 15px;
+}
+.block-form {
+    button {
+        margin-top: 10px;
+        background-color: @main-orange !important;
+    }
+    .v-text-field__details {
+        display: none;
+    }
+}
+.input-custom {
+
+    .v-label {
+        &.v-label--active {
+            color: #fff !important;
+        }
+    }
+}

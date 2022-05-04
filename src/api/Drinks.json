@@ -1,0 +1,99 @@
+{
+  "Products": [
+    {
+      "id": "64",
+      "image": "https://img.povar.ru/uploads/66/98/10/2d/vzbitii_kofe_s_molokom-668085.JPG",
+      "title": "Взбитый кофе с молоком",
+      "price": 200,
+      "quantity": 1,
+      "article": "T64",
+      "description": "Необычный напиток из холодного молока с кофейной шапочкой (Дальгона-кофе)",
+      "structure": [
+        "Молоко - 200 мл",
+        "Кофе растворимый - 1 ст. ложка",
+        "Сахар - 1 ст. ложка",
+        "Вода (кипяток) - 1 ст. ложка",
+        "Для подачи (по желанию):",
+        "Лёд - 3-4 кубика",
+        "Шоколад или молотая корица - по желанию"
+      ]
+    },
+    {
+      "id": "66",
+      "image": "https://about-tea.ru/wp-content/uploads/6/5/3/653bff614bd4b84c739cda0ee310468d.jpeg",
+      "title": "Какао-кофе",
+      "price": 190,
+      "quantity": 1,
+      "article": "T66",
+      "description": "Начните день с ароматного, вкусного напитка.",
+      "structure": [
+        "Кофе молотый - 4 ст. ложки",
+        "Какао - 2 ст. ложки",
+        "Кипяток - 2 стакана",
+        "Корица молотая - по вкусу"
+      ]
+    },
+    {
+      "id": "67",
+      "image": "https://static.tildacdn.com/tild3232-3961-4237-b837-326262613666/Milkshake.jpg",
+      "title": "Молочный коктейль",
+      "price": 150,
+      "quantity": 1,
+      "article": "T67",
+      "description": "Настоящее лакомство и довольно полезный напиток",
+      "structure": [
+        "Молоко - 250 мл",
+        "Мороженое сливочное - 150 г",
+        "Клубника свежая - 200 г",
+        "Сахар - 2 ст. л.",
+        "Сливки - 50 мл"
+      ]
+    },
+    {
+      "id": "68",
+      "image": "https://domashniirestoran.ru/wp-content/uploads/2018/02/Koktejl-Pina-Kolada.jpg",
+      "title": "Коктейль Пина колада",
+      "price": 250,
+      "quantity": 1,
+      "article": "T68",
+      "description": "Коктейль Пина колада будет отличным украшением любой вечеринки.",
+      "structure": [
+        "Кубики льда - 4 стакана",
+        "Ананасовый сок, охлажденный - 3/4 стакана",
+        "Золотистый ром - 1/2 стакана",
+        "Сливки или кокосовое молоко - 1/2 стакана",
+        "Ананасовые дольки для сервировки - 4 шт"
+      ]
+    },
+    {
+      "id": "69",
+      "image": "https://avatars.mds.yandex.net/get-zen_doc/4079787/pub_60746e17c2e03035adcc8daf_607471b65b891f511988b193/scale_1200",
+      "title": "Кока-кола",
+      "price": 100,
+      "quantity": 1,
+      "article": "T69",
+      "description": "Кола-это газированный безалкогольный напиток, приправленный ванилью, корицей, цитрусовыми маслами и другими ароматизаторами",
+      "structure": []
+    },
+    {
+      "id": "70",
+      "image": "https://yandex-images.clstorage.net/dsYa48220/1727c5NTEs/tLNqQP_I3oH8OVp-BBse2g0rMoIYz8J7ZSDV6EaWmLz2pAwNWj_ohw6pkCiOQM1dX1fxQFL3aNFr_lz1C211bqXwYA6znMrTvWwYUh8UQ5pCamTVHs6NZjJwkfdAko_36PEEahEj6MlT-f4qjEXScnV07zdvgQmhSoNw7QszIT287iIaj_aIk-w5cXRAOBn6VgsJhwzY1QRNN_euV72N4_i7FypdEvz-Xs_qf8gauk5ufP0dXL08v2CQfPY6GRAAqKgeCKjl-oHiG0FqSzwV3XEfNoAs7NA9fBXEpnCUjfzLqCURdQfBxFntwmntA5FIW2bIPnisMa1CnVfeGg0OF7CMNDym-9CX-B1GY3MaNeJiEASYLP7rBk4w26lzvoTh3Zk3PFMy8eNl_eZa7CKFdER8zzlZoRiSdZNG2ickLhuRtwkioOXQq84vZkVfHSjCYhUnuRrC3SxYE-umUrKd6euVDhN_Fd_MStXPYdocgXh9Q8EZd684vUydd_kJEQM1jY41P73i-6LJC1p9XTMd4XA7F4IE-PkbQTHNk1O8qMP7riMxVTXo-0v4wEnqF69DWU_UAnOBAZ1Cv0zBPg8AEY2ICSakzNC4-jtQbl8TGPBQIDqIP-bVJVgv27VllITE_agGE2436eRo7sNPyT24TlNi_D9xnT6nWb5v3QARAyGupSU3t97FifgueG9INxfdSj4woC7Z_B5ONdeGTL6Pwf6tJh1qKMTubc_LX_88gVpET_kNVrYXukC9S9ESBDU8l7UxILv6-4zMPE5fTi4R83sQAoIUyMItTi3RjnCfhfPihikCXyXm207SzmHLOYRjW3vnO3yBEZp3rV_VGRcVGre6FQa_3eaz_RJhW0cSE_hVPAO2NfPrEEg32bRsiavhyKMwA1wg0dhV_dZsxx-sXVBj6wFepAGmY5J37Qk2PR28thguk8jnpuYSXGJzEg3PaBQYiBXQzR1TKeSjdrg",
+      "title": "Фанта",
+      "price": 100,
+      "quantity": 1,
+      "article": "T70",
+      "description": "Безалкогольный сильногазированный прохладительный напиток с цитрусовым вкусом;",
+      "structure": []
+    },
+    {
+      "id": "71",
+      "image": "https://primaveraclub.ru/wp-content/uploads/2020/10/593added2cc15.jpg",
+      "title": "Спрайт",
+      "price": 100,
+      "quantity": 1,
+      "article": "T71",
+      "description": "Спрайт — газированный безалкогольный напиток со вкусом лайма и лимона, принадлежащий американской компании The Coca-Cola Company",
+      "structure": []
+    }
+  ]
+}
